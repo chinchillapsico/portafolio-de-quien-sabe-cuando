@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto+Mono:400,700&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+/* -----Paleta de colores ------*/
+
+/* header {
+  background-image: url('../img/bg-hero.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 10rem;
+}
+
+.carousel-indicators {
+  top: 50px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+*/
+.rosado{
+  color: rgb(238, 4, 242);
+  background-color: rgb(238, 4, 242);
+}
+.morado{
+  color: rgb(54, 1, 89);
+  background-color: rgb(54, 1, 89);
+}
+.azul{
+  rgb(39, 54, 140);
+}
+.amarillo{
+  color: rgb(242, 159, 4);
+}
+.naranja{
+  color: rgb(242, 68, 4);
+}
+
+nav .navbar-nav li a{
+  color: rgb(242, 159, 4) !important;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bold;
+}
